@@ -25,6 +25,10 @@ Create the metrics according to the metrics list.
 Create a dashboard according to the requirements provided by stakeholders in the business review meeting. I have been provided with the transcript of this business review meeting in the form of a comic.
 Create relevant insights that are not provided in the metric list/stakeholder meeting.
 
+<h2>Data Pipeline</h2>
+
+
+
 <h2>Data Model</h2>
 
 ![SS 5](https://user-images.githubusercontent.com/88286852/198854218-81ab22a6-e2ed-43a0-9de7-3f1a90572ec2.png)
