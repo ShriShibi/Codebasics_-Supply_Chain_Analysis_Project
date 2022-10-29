@@ -31,17 +31,24 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 
 <h2>Dashboard</h2>
 
-![P1_Dashboard](https://user-images.githubusercontent.com/108889874/197377853-559efb89-1df7-4ac3-8820-7a7d85aafb40.png)
 
-![P2_Dashboard](https://user-images.githubusercontent.com/108889874/197377860-6985a042-9960-4147-9832-6e9181621af1.png)
+![SS 1](https://user-images.githubusercontent.com/88286852/198854027-af25a21e-6077-4486-aa0b-cb33699add16.png)
 
-![P3_Dashboard](https://user-images.githubusercontent.com/108889874/197377872-ef5b8888-05eb-4c5a-8041-66b0a8f3c53f.png)
+![SS 2](https://user-images.githubusercontent.com/88286852/198854028-ba9946f3-758c-40d8-808a-77e30ba3e8ed.png)
+
+![SS 3](https://user-images.githubusercontent.com/88286852/198854029-1c77479b-09da-4875-80a2-0664dbe569fb.png)
+
+![SS 4](https://user-images.githubusercontent.com/88286852/198854030-3ad5d996-1cce-4521-9c24-9470b5ba1d15.png)
+
+
+
+
+
+
 
 
 <h2>Business Insights</h2>
 
-![C1_Dashboard](https://user-images.githubusercontent.com/108889874/197377932-af6c07a6-0853-4502-be40-6d1c9b5d4bbd.png)
-
-![C2_Dashboard](https://user-images.githubusercontent.com/108889874/197377940-aa578757-c9c1-4f7d-aa0b-79275e43ee44.png)
+![Summary Insights](https://user-images.githubusercontent.com/88286852/198854031-9d5a6af7-bddb-4983-a27d-586f09b8bbce.png)
 
 
