@@ -27,7 +27,7 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 
 <h2>Data Model</h2>
 
-![Data_model](https://user-images.githubusercontent.com/108889874/197377470-c41271a6-a075-4645-81ee-6c9fed4a455d.png)
+![SS 5](https://user-images.githubusercontent.com/88286852/198854218-81ab22a6-e2ed-43a0-9de7-3f1a90572ec2.png)
 
 <h2>Dashboard</h2>
 
