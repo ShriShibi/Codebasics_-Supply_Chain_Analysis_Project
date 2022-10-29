@@ -27,7 +27,7 @@ Create relevant insights that are not provided in the metric list/stakeholder me
 
 <h2>Data Pipeline</h2>
 
-
+![Screenshot (497)](https://user-images.githubusercontent.com/88286852/198854597-8392d999-cb66-4710-a4d2-3507c69773ae.png)
 
 <h2>Data Model</h2>
 
